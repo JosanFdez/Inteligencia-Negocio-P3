@@ -85,8 +85,3 @@ Las contribuciones son bienvenidas. Si deseas colaborar:
 2. Realiza los cambios necesarios.
 3. Envía un pull request detallando las modificaciones.
 
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
